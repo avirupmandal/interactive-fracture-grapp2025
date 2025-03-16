@@ -1,0 +1,11 @@
+@conference{grapp25,
+author={Avirup Mandal and Parag Chaudhuri and Subhasis Chaudhuri},
+title={Galerkin Enhanced Graph-Based FEM for Interactive Fracture and Sculpting Applications},
+booktitle={Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 1: GRAPP},
+year={2025},
+pages={65-76},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0013142800003912},
+isbn={978-989-758-728-3},
+}
